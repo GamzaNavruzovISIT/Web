@@ -15,3 +15,6 @@
 4.  **Лабораторная работа 4** — Взаимодействие с VK API через XMLHttpRequest.
 5.  **Лабораторная работа 5** — Взаимодействие с VK API через fetch.
 6.  **Лабораторная работа 6** — Развертывание собственного API.
+
+# Ссылка на GitHub Pages
+https://gamzanavruzovisit.github.io/GitIO/
